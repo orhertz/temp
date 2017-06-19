@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="addChocolate">להוסיף שוקולד?</string>
+    <string name="addWhippedCream">להוסיף קצפת?</string>
+    <string name="chocolate">שוקולד</string>
+    <string name="order">הזמן</string>
+    <string name="order_summary_name">שם:</string>
+    <string name="order_summary_email_subject">" JustJava order for "</string>
+    <string name="order_summary_price">סה\"כ: $</string>
+    <string name="order_summary_quantity">כמות:</string>
+    <string name="quantity">כמות</string>
+    <string name="thank_you">תודה רבה!</string>
+    <string name="toppings">תוספות</string>
+    <string name="whipped_cream">קצפת</string>
+</resources>
